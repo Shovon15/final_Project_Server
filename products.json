@@ -1,0 +1,37 @@
+[
+    {
+        "categoryName":"SUV",
+        "image":"https://i.ibb.co/YLV7f2f/suv-check.jpg",
+        "title":"Enjoy the destination and the journey with these SUVs"
+    },
+    {
+        "categoryName":"SEDAN",
+        "image":"https://i.ibb.co/YLV7f2f/suv-check.jpg",
+        "title":"Enjoy the destination and the journey with these SUVs"
+    },
+    {
+        "categoryName":"Hatchback",
+        "image":"https://i.ibb.co/hsL4Kz6/SUV-lease.jpg",
+        "title":"Enjoy the destination and the journey with these SUVs"
+    },
+    {
+        "categoryName":"WAGON",
+        "image":"https://i.ibb.co/9hgRM0r/Toyota-fortuner.jpg",
+        "title":"Enjoy the destination and the journey with these SUVs"
+    },
+    {
+        "categoryName":"CROSSOVER",
+        "image":"https://i.ibb.co/PZxD6C5/2016-Cadillac-CTS-V-Sedan-051-1.jpg",
+        "title":"Enjoy the destination and the journey with these SUVs"
+    },
+    {
+        "categoryName":"COUPE",
+        "image":"https://i.ibb.co/c61vmMJ/Tata-safary.jpg",
+        "title":"Enjoy the destination and the journey with these SUVs"
+    },
+    {
+        "categoryName":"SPORTS CAR",
+        "image":"https://i.ibb.co/S0QqnP9/Sports-car-check.jpg",
+        "title":"Enjoy the destination and the journey with these SUVs"
+    }
+]
